@@ -1,5 +1,5 @@
 # hr-attrition-excel
-# EXCLE-HR_Attrion_Analysis
+# EXCEL-HR_Attrtion_Analysis
 
 
 **HR Analytics Dashboard: Utilizing Excel Power Query for dataset transformation, manipulation, and cleaning, this project adds key columns like age group for deeper analysis. Through pivot tables and Excel formulas like XLOOKUP and IF, critical insights are uncovered, visualized, and presented in a dynamic dashboard that showcases employee performance, turnover rates, and departmental efficiency.**
